@@ -1,0 +1,7 @@
+public class A{
+
+private Integer name;
+
+private String sex;
+
+}
