@@ -2,5 +2,8 @@ public class a{
 
 private int age;
 
+private String sex;
 
+
+private String name;
 }
